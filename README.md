@@ -13,6 +13,7 @@
 - [Technical Details](#technical-details)  
 - [Assumptions and Caveats](#assumptions-and-caveats)  
 
+---
 
 ## Project Name  
 **Healthcare Solutions Inc. Drug Efficacy Analysis**  
