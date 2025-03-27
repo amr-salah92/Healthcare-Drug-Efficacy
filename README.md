@@ -50,7 +50,7 @@ The dataset includes the following variables:
 **Key Findings**:  
 1. **Drug A vs. Drug B**: Drug A showed significantly shorter recovery times than Drug B (p < 0.05).  
 2. **Dosage Impact**: 150mg dosage led to the shortest recovery times.  
-3. **Statistical Significance**: Pairwise comparisons with Bonferroni correction confirmed significant differences between dosages.  
+3. **Statistical Significance**:  kruskal-wallis test confirmed significant differences between dosages.  
 
 ---
 
@@ -58,11 +58,10 @@ The dataset includes the following variables:
 
 ### Drug Efficacy  
 - Drug A significantly reduced recovery time compared to Drug B.  
-- Normality tests confirmed the validity of t-tests.  
 
 ### Dosage Impact  
 - 150mg dosage resulted in the shortest recovery time, significantly outperforming 50mg and 100mg.  
-- Bonferroni-corrected pairwise tests confirmed statistical significance.  
+- kruskal-wallis test confirmed statistical significance.  
 
 ---
 
@@ -80,8 +79,7 @@ The dataset includes the following variables:
 
 **Statistical Tests**:  
 - Wilcoxon test for Drug A vs. Drug B.  
-- One-way ANOVA for dosage comparison.  
-- Bonferroni-corrected pairwise comparisons.  
+- kruskal-wallis test  
 
 ---
 
