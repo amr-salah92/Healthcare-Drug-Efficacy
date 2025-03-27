@@ -86,7 +86,7 @@ The dataset includes the following variables:
 ---
 
 ## Assumptions and Caveats  
-1. **Normality Assumption**: Statistical tests assume normality, validated by Shapiro-Wilk and KS tests.  
+1. **Normality rejection**: Statistical tests rejects normality, validated by Shapiro-Wilk and KS tests.  
 2. **Sample Size Limitations**: Results may not generalize to a larger population.  
 3. **Study Design Considerations**: Future research should explore repeated measures for enhanced reliability.  
 
